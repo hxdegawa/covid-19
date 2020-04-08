@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="401.67" viewBox="0 0 400 401.67">
+  <g id="biohazard" transform="translate(-686 -321)">
+    <g id="spacer" transform="translate(686 321)" fill="rgba(255,255,255,0)" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="400" height="401.67" stroke="none"/>
+      <rect x="0.5" y="0.5" width="399" height="400.67" fill="none"/>
+    </g>
+    <g id="biohazard-2" data-name="biohazard" transform="translate(683.384 303.36)">
+      <path id="パス_5" data-name="パス 5" d="M193.94,197.32V180.9A87.12,87.12,0,0,1,157.62,17.64,105.74,105.74,0,0,0,107.81,167,105.75,105.75,0,0,0,3.31,284.84,87.12,87.12,0,0,1,162.86,234.7l14.22-8.2a23.41,23.41,0,0,1,16.86-29.18Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

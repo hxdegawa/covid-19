@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  color: $color-white;
+  cursor: url(/cursor.svg) 1 1, crosshair;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.inner-margin {
+  max-width: $pc;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: $color-trueblack;
+  min-height: 80px;
+}
+
+.white-underline {
+  border-bottom: solid 1px $color-white;
+}
+
+.yellow-underline {
+  border-bottom: solid 1px $color-yellow;
+}
+
+.red-underline {
+  border-bottom: solid 1px $color-red;
+}
+
+.green-underline {
+  border-bottom: solid 1px $color-green;
+}

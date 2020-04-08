@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="401.67" viewBox="0 0 400 401.67">
+  <g id="biohazard" transform="translate(-686 -321)">
+    <g id="spacer" transform="translate(686 321)" fill="rgba(255,255,255,0)" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="400" height="401.67" stroke="none"/>
+      <rect x="0.5" y="0.5" width="399" height="400.67" fill="none"/>
+    </g>
+    <g id="biohazard-2" data-name="biohazard" transform="translate(683.384 303.36)">
+      <path id="パス_1" data-name="パス 1" d="M199.64,153.29a66.43,66.43,0,0,1,29.42,6.83,72.16,72.16,0,0,0,19.15-12.48,87.24,87.24,0,0,0-97.14,0,72.22,72.22,0,0,0,19.16,12.48,66.35,66.35,0,0,1,29.41-6.83Z" transform="translate(2.961 1.873)" fill="#fff"/>
+      <path id="パス_2" data-name="パス 2" d="M257.47,253.45a66.48,66.48,0,0,1-20.62,22.07,72.719,72.719,0,0,0,1.22,22.82,87.2,87.2,0,0,0,48.58-84.13,72.48,72.48,0,0,0-20.38,10.36,66.44,66.44,0,0,1-8.8,28.88Z" transform="translate(4.029 3.852)" fill="#fff"/>
+      <path id="パス_6" data-name="パス 6" d="M141.81,253.44a66.52,66.52,0,0,1-8.8-28.89,72.69,72.69,0,0,0-20.37-10.36,87.22,87.22,0,0,0,48.55,84.14,72.421,72.421,0,0,0,1.23-22.82A66.351,66.351,0,0,1,141.81,253.44Z" transform="translate(1.892 3.852)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
