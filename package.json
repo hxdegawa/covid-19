@@ -28,7 +28,7 @@
     "nuxt": "^2.0.0",
     "nuxt-material-design-icons": "^1.0.4",
     "nuxt-property-decorator": "^2.5.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^8.0.2",
     "vue-chartjs": "^3.5.0",
