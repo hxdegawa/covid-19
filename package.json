@@ -24,7 +24,7 @@
     "cross-env": "^5.2.0",
     "echarts": "^4.7.0",
     "express": "^4.16.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "nuxt-material-design-icons": "^1.0.4",
     "nuxt-property-decorator": "^2.5.1",
