@@ -23,7 +23,7 @@
     "chart.js": "^2.9.3",
     "cross-env": "^5.2.0",
     "echarts": "^4.7.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node-sass": "^4.13.1",
     "nuxt": "^2.0.0",
     "nuxt-material-design-icons": "^1.0.4",
